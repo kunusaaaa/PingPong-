@@ -10,7 +10,7 @@ window.tracer(3)
 
 border = turtle.Turtle()
 border.speed(0)
-border.color('green')
+border.color('blue')
 border.begin_fill()
 border.goto(-500,300)
 border.goto(500,300)
